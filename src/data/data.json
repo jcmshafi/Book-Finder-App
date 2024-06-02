@@ -4,7 +4,7 @@
     "name": "React Key Concepts (2023)",
     "author": "Maximilian Schwarzmüller",
     "price": "$32",
-    "imageUrl": "src/assets/book.png",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg",
     "year": "2023",
     "isFavourite": true,
     "rating": 4
@@ -24,7 +24,7 @@
     "name": "Modern CSS with Tailwind (2023)",
     "author": "Noel Rappin",
     "price": "$22.87",
-    "imageUrl": "src/assets/book.png",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg",
     "year": "2023",
     "isFavourite": true,
     "rating": 5
@@ -34,7 +34,7 @@
     "name": "You Don't Know JS (2017)",
     "author": "Kyle Simpson",
     "price": "$35",
-    "imageUrl": "src/assets/book.png",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41xShlnTZTL._SX374_BO1,204,203,200_.jpg",
     "year": "2017",
     "isFavourite": false,
     "rating": 2
@@ -64,7 +64,7 @@
     "name": "Design Patterns (2018)",
     "author": "Erich Gamma",
     "price": "$55",
-    "imageUrl": "src/assets/book.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/41uAhIuo9BL._SX342_SY445_.jpg",
     "year": "2018",
     "isFavourite": true,
     "rating": 5
@@ -74,7 +74,7 @@
     "name": "Ultimate Tailwind CSS (2024)",
     "author": "Kartik Bhat",
     "price": "$32.95",
-    "imageUrl": "src/assets/book.png",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg",
     "year": "2024",
     "isFavourite": false,
     "rating": 4
